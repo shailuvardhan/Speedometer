@@ -1,0 +1,55 @@
+.bg-container {
+  background-color: #07080c;
+  background-size: cover;
+  height: 100%;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-container {
+  color: #ffffff;
+  text-align: center;
+  padding: 10px;
+  font-family: 'Roboto';
+}
+
+.title {
+  color: #ffffff;
+  font-size: 40px;
+}
+
+.img {
+  width: 80%;
+}
+
+.sub-title {
+  color: #ffffff;
+  font-size: 30px;
+}
+
+.para {
+  color: #cbd5e1;
+}
+.btn {
+  font-size: 18px;
+  padding: 15px;
+  border-radius: 12px;
+  cursor: pointer;
+  outline: none;
+  margin: 10px;
+}
+
+.btn-accelerate {
+  background-color: #0b69ff;
+  color: #ffffff;
+}
+
+.btn-brake {
+  background-color: transparent;
+  border-width: 2px;
+  border-color: #94a3b8;
+  color: #94a3b8;
+}
